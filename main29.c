@@ -4,7 +4,7 @@ int binarysearch(int array[],int x,int,int);
 
 int main()
 {
-    int array[100];
+   // int array[100];  //
 for (int i=0;i<=sizeof(array);++i)
 {
     printf("enter elment");
